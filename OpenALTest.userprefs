@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenALTest/AudioHandler.cs">
+    <Files>
+      <File FileName="OpenALTest/Main.cs" Line="49" Column="41" />
+      <File FileName="OpenALTest/Server.cs" Line="53" Column="1" />
+      <File FileName="OpenALTest/Client.cs" Line="66" Column="16" />
+      <File FileName="OpenALTest/AudioHandler.cs" Line="167" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
